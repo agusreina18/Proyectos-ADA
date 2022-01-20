@@ -1,3 +1,5 @@
 EJEMPLOS:
 git config --global user.email "cony.ut@gmail.com"
 git config --global user.name “nombre_usuario”
+
+token ingreso git: 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 expira 21/03/22
