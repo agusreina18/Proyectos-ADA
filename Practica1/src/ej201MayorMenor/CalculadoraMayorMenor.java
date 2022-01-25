@@ -1,3 +1,7 @@
+/*Ejemplo 2.1
+Se desea implementar un algoritmo para determinar cuál de dos valores
+proporcionados es el mayor. Representarlo con pseudocódigo y diagrama de flujo.*/
+
 package ej201MayorMenor;
 
 import java.util.Scanner;
