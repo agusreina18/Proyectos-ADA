@@ -23,6 +23,7 @@ public class CostosLapices {
 		System.out.println("-------------------------------");
 		System.out.println("Ingrese la cantidad de lápices a comprar:");
 		x= sc.nextInt();
+		sc.close();
 		
 		if(x>=CANT_MAYORISTA) {
 			pag= x* PRECIO_MAYORISTA;
