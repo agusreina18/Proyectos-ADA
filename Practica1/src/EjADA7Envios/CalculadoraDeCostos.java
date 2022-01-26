@@ -7,7 +7,7 @@ public class CalculadoraDeCostos {
 		Integer pesoDePaquete, zonaDeEnvio, costo;
 		costo= 0;
 		
-		Scanner scanner= new Scanner;
+		Scanner scanner= new Scanner(System.in);
 		
 		System.out.println("Ingrese el peso del paquete en grs:");
 		pesoDePaquete= scanner.nextInt();

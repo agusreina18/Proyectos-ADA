@@ -1,3 +1,8 @@
+/*Ejemplo 2.5
+Se requiere determinar cuál de tres cantidades proporcionadas es la mayor.
+Realizar su respectivo algoritmo y representarlo mediante un diagrama de flujo y
+pseudocódigo.*/
+
 package ej205MayorDeTres;
 
 import java.util.Scanner;

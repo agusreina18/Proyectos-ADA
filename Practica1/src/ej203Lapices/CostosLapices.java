@@ -1,3 +1,9 @@
+/*Ejemplo 2.3
+Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad
+de lápices considerando que si son 1000 o más el costo es de 85$ c/lapiz; de lo
+contrario, el precio es de 90$ c/lapiz. Represéntelo con el pseudocódigo y el diagrama
+de flujo.*/
+
 package ej203Lapices;
 
 import java.util.Scanner;

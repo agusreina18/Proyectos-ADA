@@ -1,3 +1,10 @@
+/*Ejemplo 2.4
+Almacenes “El harapiento distinguido” tiene una promoción: a todos los trajes
+que tienen un precio superior a $2500.00 se les aplicará un descuento de 15 %, a todos
+los demás se les aplicará sólo 8%. Realice un algoritmo para determinar el precio final
+que debe pagar una persona por comprar un traje y de cuánto es el descuento que
+obtendrá. Represéntelo mediante el pseudocódigo y el diagrama de flujo.*/
+
 package ej204CasaDeTrajes;
 
 import java.util.Scanner;
